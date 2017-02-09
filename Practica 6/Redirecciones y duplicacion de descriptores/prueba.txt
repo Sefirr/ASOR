@@ -1,0 +1,2 @@
+setuid(): Operation not permitted
+Hola soy Manueh
